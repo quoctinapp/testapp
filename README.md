@@ -1,1 +1,1 @@
-# testapp
+# chemistryapp_demo
